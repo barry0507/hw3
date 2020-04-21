@@ -2,10 +2,10 @@
     {
         "module": "../..",
         "size": {
-            ".text": 37231,
+            ".text": 36829,
             ".data": 473,
             ".bss": 6770,
-            ".text-delta": 0,
+            ".text-delta": -402,
             ".data-delta": 0,
             ".bss-delta": 0
         }
@@ -13,10 +13,10 @@
     {
         "module": "BUILD/K66F",
         "size": {
-            ".text": 1638,
+            ".text": 1618,
             ".data": 9,
             ".bss": 5032,
-            ".text-delta": 8,
+            ".text-delta": -20,
             ".data-delta": 0,
             ".bss-delta": 0
         }
@@ -24,10 +24,10 @@
     {
         "module": "[fill]",
         "size": {
-            ".text": 537,
+            ".text": 535,
             ".data": 13,
             ".bss": 51,
-            ".text-delta": 0,
+            ".text-delta": -2,
             ".data-delta": 0,
             ".bss-delta": 0
         }
@@ -91,8 +91,8 @@
         "summary": {
             "static_ram": 20904,
             "static_ram_delta": 0,
-            "total_flash": 301489,
-            "total_flash_delta": 8
+            "total_flash": 301065,
+            "total_flash_delta": -424
         }
     }
 ]

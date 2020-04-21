@@ -112,7 +112,7 @@ int main() {
    void printlog(){
       for(int j=0;j<100;j++)
          pc.printf("%s",result[j].c_str());
-         wait(0.1);
+       //  wait(0.1);
    }
    void endlog(){
       startlog = 0;
